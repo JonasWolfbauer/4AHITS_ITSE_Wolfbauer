@@ -1,0 +1,14 @@
+HALLO LIEBE WELT
+DAS IST EIN SUPA TEXT
+WIR LIEBEN TEXT
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+
+internal class Program
+{
+    public class Um W
+}
